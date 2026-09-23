@@ -1,4 +1,4 @@
-# ⚡Florida Power & Light (FPL) Energy & Environmental Analytics — Correlation & Linear Regression
+#⚡Florida Power & Light (FPL) Energy & Environmental Analytics — Correlation & Linear Regression
 
 📘 **Overview**
 
